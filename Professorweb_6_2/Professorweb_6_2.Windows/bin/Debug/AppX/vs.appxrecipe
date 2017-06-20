@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MNVU3E4</Machine>
+    <WindowsUser>Admin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2423c74b-2a6a-45e2-8d98-54614b7ad01e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1C4145099AE6954B3A0F81998CE2654868DF1B37B9A615E7762414138CC5CC58</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2423c74b-2a6a-45e2-8d98-54614b7ad01e_1.0.0.0_neutral__5gyrq6psz227t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2423c74b-2a6a-45e2-8d98-54614b7ad01e_5gyrq6psz227t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2423c74b-2a6a-45e2-8d98-54614b7ad01e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Admin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-19T19:57:44.014</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.exe">
+      <PackagePath>Professorweb_6_2.Windows.exe</PackagePath>
+      <Modified>2017-05-15T19:23:02.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-04-19T19:57:43.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-04-19T19:57:43.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\SecondPage.xbf">
+      <PackagePath>SecondPage.xbf</PackagePath>
+      <Modified>2016-04-19T20:11:13.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\ThirdPage.xbf">
+      <PackagePath>ThirdPage.xbf</PackagePath>
+      <Modified>2016-04-19T20:12:43.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.xr.xml">
+      <PackagePath>Professorweb_6_2.Windows.xr.xml</PackagePath>
+      <Modified>2016-04-19T20:11:13.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\Documents\Visual Studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-19T19:57:43.823</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
